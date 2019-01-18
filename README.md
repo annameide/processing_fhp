@@ -9,7 +9,7 @@ implementation of several variables in order to move a bee over blossoming flowe
 
 
 ## pong_game
-lalala
+here you can play pong versus the computer. sound appers everytime the ball is shot from the middle. 
 
 ![pong_game](https://user-images.githubusercontent.com/46717848/51380440-0f34f180-1b12-11e9-984a-56a2f4788340.jpg)
 
