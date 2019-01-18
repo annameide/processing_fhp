@@ -3,12 +3,14 @@ _A selection of projects created during the WiSe 18/19 in the class "Processing 
 
 
 ## variables
-lalala
+implementation of several variables in order to move a bee over blossoming flowers as well as the change of the background sky color. 
+
 ![variables](https://user-images.githubusercontent.com/46717848/51380375-e7de2480-1b11-11e9-9d0e-f562aa945e24.jpg)
 
 
 ## pong_game
 lalala
+
 ![pong_game](https://user-images.githubusercontent.com/46717848/51380440-0f34f180-1b12-11e9-984a-56a2f4788340.jpg)
 
 
