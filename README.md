@@ -15,7 +15,4 @@ lalala
 ## video
 import of the macs own live camera stream and display of the video. additional use of different video filters.
 
-
-
-
-![video](https://user-images.githubusercontent.com/36308912/36646955-012a2324-1a7f-11e8-8bec-b9234d5605a3.PNG)
+![video](https://user-images.githubusercontent.com/46717848/51379850-b153da00-1b10-11e9-8580-e09f95084682.jpg)
