@@ -4,6 +4,8 @@ _A selection of projects created during the WiSe 18/19 in the class "Processing 
 
 ## variables
 lalala
+![variables](https://user-images.githubusercontent.com/46717848/51380258-96359a00-1b11-11e9-88b0-2dea735f6cbd.jpg)
+
 
 ## pong_game
 lalala
