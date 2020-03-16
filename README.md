@@ -1,5 +1,5 @@
 # processing for designers
-_A selection of projects created during the WiSe 18/19 in the class "Processing for Designers" at the Fachhochschule Potsdam (FHP)._
+_Selection of projects created during the winter term 2018/19 in "Processing for Designers" class at the University of Applied Sciences Potsdam._
 
 
 ## variables
